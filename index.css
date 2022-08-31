@@ -1,0 +1,14 @@
+.blogname {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    align-items: stretch;
+}
+
+.blogpost {
+    border: 1px solid;
+    padding: 10px;
+}
+
